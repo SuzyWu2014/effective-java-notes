@@ -33,7 +33,6 @@ public class Foo {
 Map<String, List<String>> map = new HashMap<String, List<String>>();
 
 // Static factory method
-
 public static <K, V> HashMap<K. V> newInstance() {
     return new HashMap<K, V>();
 }
