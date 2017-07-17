@@ -7,3 +7,4 @@
     * [Item 4. Enforce noninstantiability with a private constructor](Items/item4.md)
     * [Item 5. Avoid creating unnecessary objects](Items/item5.md)
     * [Item 6. Eliminate obsolete references](Items/item6.md)
+    * [Item 7. Avoid finalizers](Items/item7.md)
