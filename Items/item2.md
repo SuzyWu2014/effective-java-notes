@@ -39,10 +39,10 @@ public class Foo {
         bar3 = builder.bar3;
     }
 }
-
+// Fluent style
 Foo foo = new Foo.Builder(1).bar2(2).bar3(3).build();
 
 ```
 
-### 值得注意的是，这里有一个相关联的概念：Fluent Pattern。 简单来说就是以上链式形式的 statement.
+值得注意的是，这里有一个相关联的概念：Fluent Pattern。 简单来说就是以上链式形式的 statement.
 
